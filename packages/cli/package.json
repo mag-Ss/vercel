@@ -7,7 +7,7 @@
   "homepage": "https://vercel.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vercel/vercel.git",
+    "url": "https://github.com/mag-Ss/vercel.git",
     "directory": "packages/cli"
   },
   "scripts": {
